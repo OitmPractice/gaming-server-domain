@@ -1,7 +1,7 @@
 spring:
   datasource:
     druid:
-      url: jdbc:mysql:///toutiao?useUnicode=true&characterEncoding=u tf-8&useSSL=false
+      url: jdbc:mysql://127.0.0.1:3306/toutiao
       username: root
       password: root
       initial-size: 1
